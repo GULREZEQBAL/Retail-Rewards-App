@@ -56,7 +56,7 @@ This project was built using React and set up with Create React App. To run this
 Here's an example of the application:
 
 ### Transactions Table
-![Screenshot of the Transactions Table](screenshots/transactions_screenshot.png)
+![Screenshot of the Transactions Table](https://github.com/GULREZEQBAL/Retail-Rewards-App/blob/master/Screenshot%202025-04-14%20192823.png)
 *Shows a table displaying customer transaction history.*
 
 ## Author
