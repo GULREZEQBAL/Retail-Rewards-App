@@ -6,7 +6,7 @@ Welcome to the Retailer Reward Program web application! This application is desi
 
 ## Accessing the Application
 
-[**Provide the specific URL or link where the client can access the web application here.** For example: `You can access the application by visiting [https://your-app-domain.com](https://your-app-domain.com) in your web browser.`]
+[**Provide the specific URL or link where the client can access the web application here.** For example: `You can access the application by visiting https://github.com/GULREZEQBAL/Retail-Rewards-App in your web browser.`]
 
 ## Setup (General - For Development)
 
