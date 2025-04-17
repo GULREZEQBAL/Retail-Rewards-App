@@ -6,7 +6,7 @@ Welcome to the Retailer Reward Program web application! This application is desi
 
 ## Accessing the Application
 
-You can access the application by visiting https://github.com/GULREZEQBAL/Retail-Rewards-App in your web browser.`]
+You can access the application by visiting https://github.com/GULREZEQBAL/Retail-Rewards-App in your web browser.
 
 ## Setup (General - For Development)
 
@@ -57,13 +57,14 @@ Here's an example of the application:
 
 ### Transactions Table
 ![Screenshot of the Transactions Table](https://github.com/GULREZEQBAL/Retail-Rewards-App/blob/master/Screenshot%202025-04-14%20192823.png)
+
 *Shows a table displaying customer transaction history.*
 
 ## Author
 
-[ `Developed by [Gulrez Eqbal]`]
+Developed by Gulrez Eqbal
 
-[`gulrez.tabrez@gmail.com]`]
+Email - gulrez.tabrez@gmail.com
 
 
 
