@@ -61,9 +61,9 @@ Here's an example of the application:
 
 ## Author
 
-[**Provide the author's name or organization name here.** For example: `Developed by [Gulrez Eqbal]`]
+[ `Developed by [Gulrez Eqbal]`]
 
-[**You can also add contact information or a link to the author's website/portfolio if you wish.** For example: `gulrez.tabrez@gmail.com]`]
+[`gulrez.tabrez@gmail.com]`]
 
 
 
